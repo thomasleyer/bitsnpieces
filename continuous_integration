@@ -8,4 +8,6 @@ Cloudbees & Puppetlabs
 https://jaxenter.com/testing-infrastructure-as-code-continuous-integration-with-jenkins-and-puppet-121048.html
 
 
+sudo java -jar jenkins.war --httpsPort=443  --httpPort=-1
+
 
