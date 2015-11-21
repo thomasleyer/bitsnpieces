@@ -11,3 +11,5 @@ https://jaxenter.com/testing-infrastructure-as-code-continuous-integration-with-
 sudo java -jar jenkins.war --httpsPort=443  --httpPort=-1
 
 https://anandparthasarathy.wordpress.com/2014/01/14/connect-jenkins-to-internal-self-signed-certificate-servers-and-configure-ssl/
+
+http://balodeamit.blogspot.de/2014/03/jenkins-switch-to-ssl-https-mode.html
