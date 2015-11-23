@@ -13,3 +13,8 @@ sudo java -jar jenkins.war --httpsPort=443  --httpPort=-1
 https://anandparthasarathy.wordpress.com/2014/01/14/connect-jenkins-to-internal-self-signed-certificate-servers-and-configure-ssl/
 
 http://balodeamit.blogspot.de/2014/03/jenkins-switch-to-ssl-https-mode.html
+
+
+http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Scenario2.html
+http://cfncluster.readthedocs.org/en/latest/ami_customization.html
+https://wiki.centos.org/TipsAndTricks/CentOSUpgradeTool
